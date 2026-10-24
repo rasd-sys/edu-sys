@@ -132,7 +132,7 @@ html, body { height: 100%; width: 100%; overflow: hidden; background: var(--prim
 <!-- ========== Splash Screen ========== -->
 <div id="splash">
   <div class="splash-logo">🛡️</div>
-  <div class="splash-title">لوحة تحكم المدير العام</div>
+  <div class="splash-title">لوحة تحكم المطور</div>
   <div class="splash-sub">إدارة ديروط التعليمية — وصول مقيد بالصلاحيات</div>
   <div class="splash-loader"><span></span></div>
   <div class="splash-status" id="splashStatus">جاري تأمين الاتصال...</div>
