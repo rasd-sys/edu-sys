@@ -350,7 +350,7 @@ const AdminPWA = (() => {
     function registerServiceWorker() {
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('./sw-admin.js').catch(err => {
+                navigator.serviceWorker.register('./sw-devops.js').catch(err => {
                     console.warn('SW Registration failed:', err);
                 });
             });
