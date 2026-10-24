@@ -1,0 +1,34 @@
+{
+   "name": "لوحة مطور منظومة رَصْد — إدارة ديروط التعليمية",
+  "short_name": "لوحة رَصْد",
+  "description": "لوحة تحكم المدير العام لمنظومة رَصْد للمتابعة اليومية للمدارس المصرية — وصول مقيد بالصلاحيات",
+  "id": "./devops.html",
+  "start_url": "./devops.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#1e1b4b",
+  "theme_color": "#fbbf24",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["education", "productivity", "business"],
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  },
+  "icons": [
+    {
+      "src": "./icon-admin-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-admin-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
