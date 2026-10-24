@@ -6,7 +6,7 @@
 <title>لوحة المطور - إدارة ديروط التعليمية</title>
 
 <!-- ========== PWA & SEO Meta ========== -->
-<link rel="manifest" href="./manifest-admin.json">
+<link rel="manifest" href="./manifest-devops.json">
 <meta name="theme-color" content="#1e1b4b">
 <meta name="color-scheme" content="dark light">
 <meta name="mobile-web-app-capable" content="yes">
