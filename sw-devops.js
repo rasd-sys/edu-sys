@@ -1,4 +1,4 @@
-const CACHE_NAME = 'diroot-devops-v2'; // تحديث الإصدار
+const CACHE_NAME = 'diroot-devops-v3'; // تحديث الإصدار
 const OFFLINE_URL = './offline.html';
 
 const CORE_ASSETS = [
