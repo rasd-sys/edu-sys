@@ -6,8 +6,8 @@ const CORE_ASSETS = [
   './devops.html',
   './manifest-devops.json',
   './offline.html',
-  './icon-admin-192.png',
-  './icon-admin-512.png'
+  './icon-dev_192.png',
+  './icon-dev_512.png'
 ];
 
 // ===== التثبيت =====
